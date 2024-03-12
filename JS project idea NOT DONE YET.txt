@@ -1,0 +1,9 @@
+------------>>>>>>>>>>>>> IDEA NO 1 <<<<<<<<<<<<<<<<-------------
+
+1. Make a game where any random but valid word come on the display.
+2. There will be a grid of a to z letter but in randomize order. 
+3. Now user have to click the correct letter present in the grid to mtch the word in a limited ammount of time.
+4. Highlight the letter in grid if the letter is correct and in sequence with green or red if it is wrong and not in sequence.
+4. The game score will be increased if user type the word in time and game score will be decreased if the user fail to type the word in time. 
+
+------------<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>-------------
