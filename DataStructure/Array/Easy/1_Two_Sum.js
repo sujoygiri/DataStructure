@@ -15,9 +15,9 @@ var twoSum = function(nums, target) {
             }
         }
     }
-    return result;
+    // return result;
     /* ----------------- */
-    /* Approach 2 with map --->>>
+    /*Approach 2 with map --->>>*/
     const numAndIndex = new Map();
     for (let i = 0; i < nums.length; i++) {
         const complement = target - nums[i];
@@ -26,7 +26,7 @@ var twoSum = function(nums, target) {
         }
         numAndIndex.set(nums[i], i);
     }
-    */
+    
 };
 
 console.log(twoSum([3,3],6))

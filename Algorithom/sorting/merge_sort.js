@@ -34,4 +34,4 @@ function merge(leftSubArr, rightSubArr) {
     return mergedArr.concat(leftSubArr.slice(leftIndex)).concat(rightSubArr.slice(rightIndex))
 }
 
-console.log('After sort:- ',mergeSort([6,4,4,1]));
+console.log('After sort:- ',mergeSort(['abza','advz','aaca','axsc']));
